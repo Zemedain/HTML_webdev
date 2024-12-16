@@ -1,0 +1,19 @@
+.white{
+    background-color: whitesmoke;
+}
+
+.cyan{
+    background-color: rgb(200, 247, 247);
+}
+
+body{
+    background-color: rgb(109, 108, 108)
+}
+
+table{
+    background-color: black
+}
+
+tr{
+    background-color: lightblue;
+}
